@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="enter_task_description">Digite un artículo</string>
+    <string name="helper_text">Digite un artículo</string>
+</resources>
